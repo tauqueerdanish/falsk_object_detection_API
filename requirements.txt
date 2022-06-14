@@ -2,3 +2,4 @@ flask
 tensorflow
 matplotlib
 tensorflow_hub
+gunicorn
